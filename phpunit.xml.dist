@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="true" bootstrap="vendor/autoload.php">
+	<testsuites>
+		<testsuite name="The Ogöudat core PHP library test suite">
+			<directory>src/Ogoudat/Core/Test/</directory>
+		</testsuite>
+	</testsuites>
+</phpunit>
